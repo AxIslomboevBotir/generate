@@ -74,3 +74,5 @@ for image in images:
 first_image.close()
 second_image.close()
 combined_image.close()
+
+
